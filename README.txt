@@ -1,1 +1,1 @@
-All chapters have code files, and they are placed chapter wise.
+Reorganized files from Learn Data Structures and Algorithms with Golang 
